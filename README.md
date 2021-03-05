@@ -35,7 +35,7 @@ Or take a look at the content of the AQA Computer Science networking modules for
 
 ## 1. Interactive software demonstration of networking concepts
 
-There are two existing screens in the gallery as shown in the image above, at least one of which could be repurposed. A virtual exhibit has the added advantage that it can also be made available on the Museum's website and used as part of virtual tours - particularly important since at the time of writing the museum is closed to visitors due to covid.
+There are two existing screens in the gallery on either side of the pillar shown in the image above, at least one of which could be repurposed/replaced. A virtual exhibit has the added advantage that it can also be made available on the Museum's website and used as part of virtual tours - particularly important since at the time of writing the museum is closed to visitors due to covid.
 
 The (Cisco) tool shown in [this video](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=48444&section=3.10) might give some ideas, though this use-case calls for something far more simple that visitors can grasp immediately and only interact with in a couple of limited ways.
 
