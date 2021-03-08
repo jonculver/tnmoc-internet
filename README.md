@@ -6,16 +6,23 @@ This is the [Internet Gallery](https://www.tnmoc.org/npl-gallery) at [The Nation
 
 ![Map](assets/images/map.png)
 
-It charts the origins of the internet with a focus on the National Physical Laboratory - the gallery's original sponsor - and it's early work in developing packet switching. It is less hot on more recent developments as the Internet has become a ubiquitous part of our lives.
+It charts the origins of networking with a focus on the National Physical Laboratory - the gallery's original sponsor - and it's early work in developing packet switching. It is less hot on how that work led to the development of the Internet and the Web, and become a ubiquitous part of our lives.
 
 This page looks at some ideas for how we at Cisco could use our experience of the networking industry to spruce up the gallery and reward visitors who make it to the furthest reaches of the museum with interesting content and exhibits.
 
-Ideally ideas should touch on one or more of the following areas of focus for the museum:
+Ideas should touch on one or more of the following areas of focus for the museum:
 
 * Demonstrating _working_ historic systems, not just items in display cases
 * Hands-on exhibits that allow visitors to interact
 * A focus on education, with information that links to the National Curriculum
 * Emphasis on British computing heritage and on ongoing British contribution to innovation and development
+
+Furthermore they should fall into one of the following themes of this gallery:
+
+* Development of packet switching, highlighting the contribution of Donald Davies and his team at the NPL (this is pretty well covered already)
+* Explaining how networking works (some attempts at this but room for improvement and we have lots of experience here)
+* Evolution of the Internet (touched on, but plenty more to say about one of our specialist subjects)
+* The birth of the Web, highlighting the contribution of Sir Tim Berners-Lee (not covered at all, but it _ought_ to be a theme of this gallery)
 
 ---
 
@@ -57,7 +64,7 @@ Networking equipment and networks in general aren't known for their visually sti
 
 The boards below are all the gallery has to say on everything beyond ARPANET. The internet and specifically the web is such an integral part of today's society that it deserves more of a mention. Not only that, it is also Britain's key contribution to recent computing history! (Technically Sir Tim Berners-Lee was working at CERN, but if it's good enough for the [2012 Olympic Opening Ceremony](https://www.zdnet.com/article/web-inventor-tim-berners-lee-stars-in-olympics-opening-ceremony/) then it definitely counts!).
 
-There isn't much space here, and linking anything to physical exhibits is hard given the virtual nature of the web. But even just revamping the existing boards to talk about something more relevant to the museum than www.disney.com would be a good start.
+There isn't much space here, and linking anything to physical exhibits is hard given the virtual nature of the web (though the musuem do have a [NeXT workstation](https://en.wikipedia.org/wiki/NeXT_Computer) in a different gallery). But even just revamping the existing boards to talk about something more relevant to the museum than www.disney.com would be a good start.
 
 The topic of 'Networking Since 1980' incorporates all of Cisco's existence and covers a huge leap forward in technology and thirst for bandwidth driven by new applications. Many of us have directly contributed via the products and protocols we have helped develop, culminating in the cutting edge routers we currently work on. We must have something interesting to show and tell!
 
