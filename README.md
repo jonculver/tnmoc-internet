@@ -8,7 +8,7 @@ This is the [Internet Gallery](https://www.tnmoc.org/npl-gallery) at [The Nation
 
 It charts the origins of networking with a focus on the National Physical Laboratory - the gallery's original sponsor - and it's early work in developing packet switching. It is less hot on how that work led to the development of the Internet and the Web, and become a ubiquitous part of our lives.
 
-This page looks at some ideas for how we at Cisco could use our experience of the networking industry to spruce up the gallery and reward visitors who make it to the furthest reaches of the museum with interesting content and exhibits.
+This page looks at some ideas for how we at Cisco could use our experience of the networking industry to spruce up the gallery and reward visitors who make it to the furthest reaches of the museum with interesting content and exhibits. For now the focus is on a few point changes that could be implemented in a relatively short timescale of 3-6 months.
 
 Ideas should touch on one or more of the following areas of focus for the museum:
 
