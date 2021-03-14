@@ -14,12 +14,26 @@ P69 - 1965 Tom Marill coins 'protocol' for set of procedures for reliable messag
 
 P73-75 - Don't want to waste precious cycles on networking + interoperability problems => IMPs. XKCD
 
-P76 - 1967 Larry Roberts presents proposal for ARPA net.
+P76 - 1967 Larry Roberts presents proposal for ARPA net. UCLA
 
 P79 - 1968 RFP for ARPA net sent out. 
 
-P103 - Build started in 1969. $1M for 4 IMPs. Team led by Frank Heart. 
+P103 - Build started in 1969. $1M for 4 IMPs (Modified Honeywell 516). Team led by Frank Heart. P143 - UCLA (Sigma-7), SRI (SDS-940), UC Santa Barbara, University of Utah. Finished in december
 
 P105 - 0.5s to get from any host to any destination. 100 8K messages per sec broken into 1K packets. 
 
 P109 - 12Kb core memory
+P114 - 2 twisted pairs copper
+P123 - 32 bit header
+
+P144 - April 1969 - RFC No.1 Host Software. Steve Crocker. described basic handshake between 2 computers. Became Network Working Group
+
+P155 - Utah only connected to SRI
+
+P161 - 1970 - 50Kb line from UCLA to Cambridge, Mass. 
+
+P162 - Loopback tests and other CE-like debugging features
+
+P166 - summer 1970. MIT, RAND, System Development Corp, Harvard. MIT to Utah, Camb to RAND. Then Lincoln Laboratory, Stanford, Carnegie-Mellon, Case Western Reserve, Burroughs Corp - Paoli Penn
+
+P171 - 15 IMPs by end 1970 then moved to Honeywell 316. Want to increase host connections from 4 and allow terminals in place of hosts
