@@ -4,7 +4,6 @@ P: 'Where Wizards Stay Up Late' by Katie Hafner & Matthew Lyon
 
 I: The Innovators by Walter Isaacson
 
-
 P41, I232 - ARPA goal for networking was to save money. Each computer was highly specialized and having every university have one of each was prohibitively expensive. Allowing researchers at one site to use a specific machine located elsewhere. Pizza. Bob Taylor.
  
 
@@ -26,15 +25,16 @@ P76, I235 - 1967 Larry Roberts presents proposal for ARPA net. Universities didn
 
 P79 - 1968 RFP for ARPA net sent out. 
 
-P103 - Build started in 1969. $1M for 4 IMPs (Modified Honeywell 516). Team led by Frank Heart. P143 - UCLA (Sigma-7), SRI (SDS-940), UC Santa Barbara, University of Utah. Finished in december
+P103, I252 - Build started in 1969. $1M for 4 IMPs (Modified Honeywell 516). Team led by Frank Heart. P143 - UCLA (Sigma-7), SRI (Stanford) (SDS-940), UC Santa Barbara, University of Utah. Finished in december
 
+I255 - Oct 29 1969 - just after moon landing - UCLA to SRI link activated. L-O-G, bug in autocomplete, crashed
 P105 - 0.5s to get from any host to any destination. 100 8K messages per sec broken into 1K packets. 
 
 P109 - 12Kb core memory
 P114 - 2 twisted pairs copper
 P123 - 32 bit header
 
-P144 - April 1969 - RFC No.1 Host Software. Steve Crocker. described basic handshake between 2 computers. Became Network Working Group
+P144,I253 - April 1969 - RFC No.1 Host Software. Steve Crocker. described basic handshake between 2 computers (IMP-to-host). Became Network Working Group
 
 P155 - Utah only connected to SRI
 
@@ -62,7 +62,7 @@ P212 - 1976 Local area networks with e-mail software was in use in several large
 
 P220 - 1969 Alohanet - 7 stations using radio to send data in Hawaii. SATNET - overtaken by under sea fiber
 
-P222 - 1973 Internetting project to join networks. Vint Cerf & Bob Kahn. Gateway. Looks like a host on both networks
+P222,I258 - 1973 Internetting project to join networks. Vint Cerf & Bob Kahn. Gateway. Looks like a host on both networks, Internet Protocol
 
 P226 - 1974 paper "A protocol for packet network intercommunication". TCP. Assume unreliable network (unlike ARPA). put responsibility on host
 
@@ -70,7 +70,7 @@ P229 - 1975 Arpanet - sales of compute as a service
 
 P236 - 1977 First demonstration of 3 networks communicating. 1978. split IP from TCP
 
-P238 - 1973 Bob Metcalfe adapted Alohanet collision protocol into Ethernet. X
+P238 - 1973 Bob Metcalfe adapted Alohanet collision protocol into Ethernet. 
 
 P242- 1979 - Arpanet site $100Kpa to run. Only 15 of 61 at universites. 120 CS departments. => CSNET. 3 tier access model. By 1983 more than 70 sites
 
